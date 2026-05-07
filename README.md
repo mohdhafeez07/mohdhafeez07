@@ -20,7 +20,3 @@ Java • Spring Boot • Angular • React • TypeScript • Node.js • PHP �
 - Cloud & DevOps
 
 ---
-
-### 🌐 Portfolio
-🔗 https://mohammedafheez.netlify.app/
-📍 UAE
