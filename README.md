@@ -14,15 +14,6 @@
 
 ---
 
-### 💼 What I'm working on
-
-- **Full-Stack Developer @ Rino Invest Group** (real estate & investment, Dubai & Spain)
-  - Architected the group platform: **Node.js REST API on AWS App Runner + S3**, a property-listing **admin panel** and **4 Next.js brand websites**
-  - Built a scheduled **Bitrix24 → backend listing sync** with an override layer, so in-house edits are never lost
-  - Automated lead capture from every web form into **Bitrix24 CRM** and the **WhatsApp Business API**, protected with **Cloudflare Turnstile**
-  - Built an internal **SEO dashboard** combining Search Console, GA4 and ranking data for all four sites
-- Previously: **ERP modules** (HRMS, CRM, Payroll, Inventory) in React, Angular, Node.js & PostgreSQL · **Java Spring Boot** APIs for a health-tech platform · workflow automation with **n8n + OpenAI**
-
 ### 🛠️ Tech stack
 
 **Frontend**
@@ -74,7 +65,7 @@
 | [**Exclense Pool**](https://github.com/mohdhafeez07/exclense-pool) | Web app built with the Next.js App Router and TypeScript | Next.js · TypeScript · Tailwind |
 | [**Portfolio**](https://github.com/mohdhafeez07/mohdafheez) | My developer portfolio — [mohdafheez.vercel.app](https://mohdafheez.vercel.app/) | React · Vite · Vercel |
 
-> Most of my day-to-day work (the Rino Invest Group platform and client sites) lives in private company repositories.
+> Much of my professional work lives in private repositories.
 
 ### 📈 GitHub activity
 
